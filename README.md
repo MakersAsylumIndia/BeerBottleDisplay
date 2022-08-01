@@ -17,3 +17,7 @@ this is the **Drill Press Cafe** beer bottle display code
 - The Matrix is zig-zag, start point is top right corner, so LEDs are numbered accordingly.
 - Create an "array" consisting of the LEDs that need to light up.
 - Also, count the "number of LED's" that need to light up for each word - this is required to be added in the code manually.
+
+
+![Beer_Bottle_Display](/images/IMG_20220723_115933.jpg)
+![Beer_Bottle_Display](/images/VID_20220723_120007.mp4)
