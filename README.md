@@ -20,4 +20,4 @@ this is the **Drill Press Cafe** beer bottle display code
 
 
 ![Beer_Bottle_Display](/images/IMG_20220723_115933.jpg)
-![Beer_Bottle_Display](/images/VID_20220723_120007.mp4)
+![Beer_Bottle_Display](/images/VID_20220723_120007_01.mp4)
